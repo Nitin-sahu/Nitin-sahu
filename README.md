@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nitin-sahu
-- 👀 I’m interested in ...
+- 
 - 🌱 I’m currently learning Btech computer science 
 - 💞️ I’m looking to collaborate on latest topic
 - 📫 contact me via-nkumarsahu94@gmail.com
