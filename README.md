@@ -16,7 +16,11 @@ You can click the Preview link to take a look at your changes.
    <a href=linkedin.com/in/nitin-kumar-sahu alt="Nitin's linkedin">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Naman Jain" height="30" width="40" />
    </a>
- 
+   &nbsp;
+   <a href=https://mail.google.com/mail/u/0/#i alt="Nitin's linkedin">
+   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20201210105308" alt="Naman Jain" height="30" width="40" />
+   </a>
+  &nbsp;
    <a href="https://www.hackerrank.com/nittinsahu88" alt="HackerRank">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Naman Jain " height="40" width="50" />
    </a>
@@ -81,7 +85,7 @@ You can click the Preview link to take a look at your changes.
           </ul>
  </p>
  
-  <p id="objectoriented">
+ <p id="objectoriented">
  <h4>OOPS</h4>  
          <ul>
              <li><a href="https://github.com/Nitin-sahu/STUDENT-DATABASE-SYSTEM-Scanpoint">Menu Program usig C++<a></li>
