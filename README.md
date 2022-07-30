@@ -92,11 +92,11 @@ You can click the Preview link to take a look at your changes.
  <h3>Github Stats</h3>
  <!--Addition of Stats on github -->
  <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/?username=namanjain123&count_private=true&showicons=true&theme=jolly" width="350" height="300" align="centre">
+  <img src="https://github-readme-stats.vercel.app/api/?username=Nitin-sahu&count_private=true&showicons=true&theme=jolly" width="350" height="300" align="centre">
 </a>
 <!--Second Stats-->
  <a href="#">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=namanjain123&showicons=true&theme=jolly" width="350" height="300" align="centre">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nitin-sahu&showicons=true&theme=jolly" width="350" height="300" align="centre">
 </a>
 
  <!--
