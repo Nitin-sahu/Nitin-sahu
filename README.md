@@ -92,6 +92,9 @@ You can click the Preview link to take a look at your changes.
           </ul>
  </p>
 
+<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nitin-sahu" alt="Nitin-sahu" /></a> </p>
+
  <br>
  <h3>Github Stats</h3>
  <!--Addition of Stats on github -->
